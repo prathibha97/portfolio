@@ -21,15 +21,15 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-        <SocialIcons href='https://github.com'>
-          <AiFillGithub size="3rem" />
-        </SocialIcons>
-        <SocialIcons href='https://linkedin.com'>
-          <AiFillLinkedin size="3rem" />
-        </SocialIcons>
-        <SocialIcons href='https://instagram.com'>
-          <AiFillInstagram size="3rem" />
-        </SocialIcons>
+        <SocialIcons href='https://github.com/prathibha97'>
+        <AiFillGithub size="3rem" />
+      </SocialIcons>
+      <SocialIcons href='https://linkedin.com/in/prathibha-ratnayake'>
+        <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+      <SocialIcons href='https://www.instagram.com/prathibzz97/'>
+        <AiFillInstagram size="3rem" />
+      </SocialIcons>
       </SocialContainer>
     </FooterWrapper>
   );

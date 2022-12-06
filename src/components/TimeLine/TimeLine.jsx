@@ -48,7 +48,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello, World! 👋 I'&aposm Prathibha, a self taught fullstack developer with a background of Business Management and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into functional applications. I primarily focus on React and Node JS.
+        Hello, World! 👋 I&apos;m Prathibha, a self taught fullstack developer with a background of Business Management and a life-long dedication to learning. I enjoy creating things that live on the internet and turning problems into functional applications. I primarily focus on React and Node JS.
       </SectionText>
 
       <SectionText>

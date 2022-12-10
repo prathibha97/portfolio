@@ -35,6 +35,24 @@ export const projects = [
     visit: 'https://tik-tik-five-kappa.vercel.app/',
     id: 3,
   },
+  {
+    title: 'The Daily News',
+    description: "Daily news platform built with MediaStack API, TypeScript, Next JS and GraphQl. Users can read daily news in different categories.",
+    image: '/images/news.png',
+    tags: ['Next JS', 'StepZen', 'TypeScript', 'GraphQl'],
+    source: 'https://github.com/prathibha97/news-app',
+    visit: 'https://news-app-livid-seven.vercel.app/',
+    id: 4,
+  },
+  {
+    title: 'CRWN Clothing',
+    description: "Online clothing store built with React, TypeScript, and Firebase. Users can create or log in to the website and purchase products. Credit card payments are available with Stripe.",
+    image: '/images/crwn.png',
+    tags: ['React', 'Redux Saga', 'TypeScript', 'Firebase'],
+    source: 'https://github.com/prathibha97/crwn-clothing',
+    visit: 'https://brilliant-taffy-591eac.netlify.app/',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
